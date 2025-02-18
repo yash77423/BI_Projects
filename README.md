@@ -13,5 +13,5 @@ Here, you'll find hands-on projects focused on **data analytics, visualization, 
 I'll be adding **code, datasets, and documentation** within the next week. Stay tuned! 🚀  
 
 ## 📞 Connect with Me  
-[LinkedIn]((https://www.linkedin.com/in/yash-srivastava-2a0456253/)) | 📧 [Email](mailto:yashsrivastava1407@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/yash-srivastava-2a0456253/) | 📧 [Email](mailto:yashsrivastava1407@gmail.com)  
 
