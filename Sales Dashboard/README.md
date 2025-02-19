@@ -51,4 +51,4 @@ A structured approach to efficiently plan and execute the project.
 ---
 
 ## 🔥 Conclusion  
-By leveraging **Power BI/Tableau**, this dashboard will empower **AtliQ Hardware** with real-time insights, helping Mr. X make informed decisions and **boost sales performance**. 🚀  
+By leveraging **Power BI/Tableau**, this dashboard will empower **the Hardware Company** with real-time insights, helping Mr. X make informed decisions and **boost sales performance**. 🚀  
